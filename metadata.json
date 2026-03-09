@@ -1,0 +1,5 @@
+{
+  "name": "Interaksi",
+  "description": "Cek interaksi obat Indonesia (BPOM) dengan database global FDA & RxNorm, didukung oleh Unmas Denpasar.",
+  "requestFramePermissions": []
+}
